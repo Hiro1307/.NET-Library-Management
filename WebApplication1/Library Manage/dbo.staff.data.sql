@@ -1,1 +1,7 @@
-INSERT INTO [dbo].[staff] ([staffID], [userName], [name], [password]) VALUES (1, N'Udin97', N'Muhammad Sarafudin bin Said', N'123')
+﻿CREATE TABLE [dbo].[staff]
+(
+	[staffId] INT NOT NULL PRIMARY KEY, 
+    [userName] VARCHAR(50) NOT NULL, 
+    [name] VARCHAR(50) NOT NULL, 
+    [password] VARCHAR(50) NOT NULL
+)
