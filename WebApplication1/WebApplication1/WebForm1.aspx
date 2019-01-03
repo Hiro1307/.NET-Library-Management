@@ -9,6 +9,13 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+            <br />
+            <br />
+            <br />
+            <br />
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <br />
         </div>
     </form>
 </body>
