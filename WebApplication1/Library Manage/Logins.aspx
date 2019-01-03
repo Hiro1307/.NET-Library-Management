@@ -14,11 +14,11 @@
             width: 866px;
         }
         .auto-style3 {
-            width: 148px;
+            width: 198px;
         }
         .auto-style4 {
             height: 23px;
-            width: 148px;
+            width: 198px;
         }
         .auto-style5 {
             width: 866px;
