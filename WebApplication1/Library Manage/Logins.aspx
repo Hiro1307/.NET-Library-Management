@@ -41,7 +41,7 @@
             <tr>
                 <td class="auto-style3">Name</td>
                 <td class="auto-style6">
-                    <asp:TextBox ID="TextBox1" runat="server" Width="376px"></asp:TextBox>
+                    <asp:TextBox ID="TextBox1" runat="server" Width="392px"></asp:TextBox>
                 </td>
                 <td class="auto-style5">
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="RequiredFieldValidator"></asp:RequiredFieldValidator>
